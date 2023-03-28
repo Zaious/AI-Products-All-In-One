@@ -97,6 +97,7 @@
 | Jasper | 文案生成：包含廣告、社群貼文、Email 等 | [URL](https://www.jasper.ai/) | 付費 | ✅ | 英文 |
 | anyword | 文案內容分析優化 | [URL](https://anyword.com/) | 付費 | ✅ | 英文 |
 | peppertype | 提供多種樣本，再結合 AI 技術，讓你可以快速地生成所需的內容 | [URL](https://www.peppertype.ai/) | 付費 | ✅ | 英文 |
+| Hypotenuse AI | 生成行銷用的廣告標語、商品敘述，也能根據不同的平台生成最適合的社群內容 | [URL](https://zh.hypotenuse.ai/) | 付費 | ✅ | 中文/英文 |
 
 
 ### PPT 生成
